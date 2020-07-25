@@ -1,5 +1,4 @@
 # Sparkify Airflow Data Pipeline
-Udacity Data Engineering Nanodegree Project 5: Data Pipelines
 
 ## Overview
 
